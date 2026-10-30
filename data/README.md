@@ -4,7 +4,7 @@ Các file CSV/XLSX lớn không nằm trong git. Tải từ Google Drive rồi �
 
 **Link Drive:** https://drive.google.com/drive/folders/1pXrXzcoGTWpXKMLBSYKHqcZCEJaQpAAk?usp=drive_link
 
-Thư mục trên Drive có cùng cấu trúc với thư mục `data/` này. Có thể tải cả thư mục rồi chép đè vào `data/`.
+Thư mục trên Drive có cùng cấu trúc với thư mục `data/` này: chép `national_drug.xlsx`, `ddinter/`, `mapping/` vào `data/`. Thư mục `crawler-data/` trên Drive là dữ liệu của crawler (không bắt buộc), chép vào `crawler/data/`.
 
 ## File bắt buộc để chạy demo POS
 
@@ -25,7 +25,7 @@ Thư mục trên Drive có cùng cấu trúc với thư mục `data/` này. Có 
 
 ## Dữ liệu của crawler (không bắt buộc)
 
-Chỉ cần khi muốn chạy lại `crawler/`. Crawler dùng thư mục riêng `crawler/data/`, mô tả trong [../crawler/data/README.md](../crawler/data/README.md):
+Chỉ cần khi muốn chạy lại `crawler/`. Tải thư mục `crawler-data/` trên Drive rồi chép vào `crawler/data/`. Mô tả chi tiết trong [../crawler/data/README.md](../crawler/data/README.md):
 
 - `crawler/data/downloads/ddinter_downloads_code_*.csv`: 14 file tải từ DDInter.
 - `crawler/data/ddinter_interactions_merged.csv`, `ddinter_interactions_final.csv`, `ddinter_interactions_unmatched.csv`.
