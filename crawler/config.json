@@ -1,0 +1,19 @@
+{
+  "start_id": 1,
+  "end_id": 302665,
+  "workers": 20,
+  "delay_seconds": 0.2,
+  "timeout_seconds": 30,
+  "retries": 3,
+  "backoff_seconds": 2.0,
+  "max_consecutive_errors": 5,
+  "progress_every": 500,
+  "save_every": 2000,
+  "use_proxy": true,
+  "proxy_file": "proxy.txt",
+  "downloads_dir": "data/downloads",
+  "merged_file": "data/ddinter_interactions_merged.csv",
+  "final_file": "data/ddinter_interactions_final.csv",
+  "unmatched_file": "data/ddinter_interactions_unmatched.csv",
+  "crawl_output_dir": "data/crawled"
+}

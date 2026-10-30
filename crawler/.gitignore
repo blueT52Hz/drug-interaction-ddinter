@@ -1,0 +1,12 @@
+# Proxy credentials - never commit
+proxy.txt
+
+# Data: too large for git (final csv is 170 MB) - shared via Google Drive, see ../data/README.md
+data/*
+!data/README.md
+
+# Python / temp files
+__pycache__/
+*.pyc
+*.tmp
+.venv/

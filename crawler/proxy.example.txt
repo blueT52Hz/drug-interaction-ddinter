@@ -1,0 +1,8 @@
+# Copy this file to proxy.txt and put one proxy per line.
+# Supported formats (blank lines and lines starting with # are ignored):
+#   host:port
+#   host:port:user:password
+#   http://user:password@host:port
+#   socks5://user:password@host:port   (needs: pip install requests[socks])
+127.0.0.1:8080
+127.0.0.1:8081:myuser:mypassword
