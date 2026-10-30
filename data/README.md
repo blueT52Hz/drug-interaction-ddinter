@@ -2,7 +2,7 @@
 
 Các file CSV/XLSX lớn không nằm trong git. Tải từ Google Drive rồi đặt **đúng đường dẫn** bên dưới, tính từ gốc repo.
 
-**Link Drive:** `<DÁN LINK GOOGLE DRIVE VÀO ĐÂY>`
+**Link Drive:** https://drive.google.com/drive/folders/1pXrXzcoGTWpXKMLBSYKHqcZCEJaQpAAk?usp=drive_link
 
 Thư mục trên Drive có cùng cấu trúc với thư mục `data/` này. Có thể tải cả thư mục rồi chép đè vào `data/`.
 
