@@ -1,0 +1,96 @@
+source_name,ddinter_drug,note
+Paracetamol,Acetaminophen,INN vs USAN
+Aspirin,Acetylsalicylic acid,
+Vitamin C,Ascorbic acid,
+Vitamin B3,Niacin,
+Vitamin PP,Nicotinamide,
+Vitamin B6,Pyridoxine,
+Vitamin B9,Folic acid,
+Vitamin B12,Cyanocobalamin,
+Methylcobalamin,Mecobalamin,
+Vitamin D2,Ergocalciferol,
+Vitamin D3,Cholecalciferol,
+Colecalciferol,Cholecalciferol,
+Tocopherol,Vitamin E,
+Tocopheryl,Vitamin E,salt-stripped form of tocopheryl acetat
+Alpha tocopherol,Vitamin E,
+Alpha-tocopherol,Vitamin E,
+Alpha tocopheryl,Vitamin E,
+Alpha-tocopheryl,Vitamin E,
+Retinol,Vitamin A,
+Retinyl,Vitamin A,salt-stripped form of retinyl palmitat
+Ezetimib,Ezetimibe,
+Glibenclamid,Glyburide,INN vs USAN
+Glibenclamide,Glyburide,INN vs USAN
+Adrenalin,Epinephrine,
+Adrenaline,Epinephrine,
+Noradrenalin,Norepinephrine,
+Noradrenaline,Norepinephrine,
+Clavulanat,Clavulanic acid,salt-stripped form of kali clavulanat
+Clavulanate,Clavulanic acid,
+Glucose,"Dextrose, unspecified form",
+Dextrose,"Dextrose, unspecified form",
+Ethinyl estradiol,Ethinylestradiol,
+Valproat,Valproic acid,salt-stripped form of natri valproat
+Valproate,Valproic acid,
+Chondroitin,Chondroitin sulfate,salt-stripped form of natri chondroitin sulfat
+Carnitin,Levocarnitine,L- prefix already stripped by normalizer
+Carnitine,Levocarnitine,
+Hyoscin,Scopolamine,hyoscine = scopolamine; butylbromid salt intentionally NOT mapped
+Hyoscine,Scopolamine,
+Glyceryl trinitrat,Nitroglycerin,
+Glyceryl trinitrate,Nitroglycerin,
+Insulin người,Insulin human,
+Povidon iod,Iodine (topical),povidone-iodine is topical antiseptic
+Povidone iodine,Iodine (topical),
+Povidon-iod,Iodine (topical),
+Iod,Iodine,
+Bismuth subcitrat,Bismuth subcitrate potassium,
+Omega 3,Omega-3 fatty acids,
+Omega-3,Omega-3 fatty acids,
+Omega 3-acid ethyl esters,Omega-3 fatty acids,
+Omega-3-acid ethyl esters,Omega-3 fatty acids,
+Omega 3-acid-ethyl esters,Omega-3 fatty acids,
+Acid béo omega 3,Omega-3 fatty acids,
+Dầu cá,Omega-3 fatty acids,
+Fish oil,Omega-3 fatty acids,
+Cam thảo,Licorice,herbal
+Cao cam thảo,Licorice,herbal
+Glycyrrhiza glabra,Licorice,herbal
+Bạch quả,Ginkgo biloba,herbal
+Cao bạch quả,Ginkgo biloba,herbal
+Cao khô lá bạch quả,Ginkgo biloba,herbal
+Cao lá bạch quả,Ginkgo biloba,herbal
+Cao Ginkgo biloba,Ginkgo biloba,herbal
+Ginkgo biloba extract,Ginkgo biloba,herbal
+Nhân sâm,Ginseng,herbal
+Cao nhân sâm,Ginseng,herbal
+Hồng sâm,Ginseng,herbal (red ginseng)
+Panax ginseng,Ginseng,herbal
+Tỏi,Garlic,herbal
+Cao tỏi,Garlic,herbal
+Gừng,Ginger,herbal
+Sinh khương,Ginger,herbal (fresh ginger)
+Can khương,Ginger,herbal (dried ginger)
+Nghệ,Turmeric,herbal
+Nghệ vàng,Turmeric,herbal
+Curcumin,Turmeric,herbal (main constituent of turmeric)
+Curcuma longa,Turmeric,herbal
+Cardus marianus,Milk thistle,herbal
+Cao Cardus marianus,Milk thistle,herbal
+Carduus marianus,Milk thistle,herbal
+Cao Carduus marianus,Milk thistle,herbal
+Cardus marianus extract,Milk thistle,herbal
+Carduus marianus extract,Milk thistle,herbal
+Cúc gai,Milk thistle,herbal
+Cao khô quả Cúc gai,Milk thistle,herbal
+Silymarin,Milk thistle,herbal (milk thistle extract)
+Silybum marianum,Milk thistle,herbal
+Kế sữa,Milk thistle,herbal
+Nữ lang,Valerian,herbal
+Cao rễ nữ lang,Valerian,herbal
+Valeriana officinalis,Valerian,herbal
+Echinacea purpurea,Echinacea,herbal
+Serenoa repens,Saw palmetto,herbal
+Hypericum perforatum,St. John's Wort,herbal
+Nam việt quất,Cranberry,herbal
