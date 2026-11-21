@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.codegraph/
+.claude/
+CLAUDE.md
+
+# Dữ liệu lớn, tải từ Google Drive (xem data/README.md)
+data/*
+!data/README.md
